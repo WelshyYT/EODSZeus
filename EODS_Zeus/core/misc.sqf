@@ -1,0 +1,4 @@
+testFunction =
+{
+  systemChat "Hello World!";
+};
