@@ -20,14 +20,14 @@ class CfgFactionClasses
 
 class CfgFunctions
 {
-	class EODS
-	{
-		class core
-		{
-			file = "\EODS_Zeus\core";
-			class misc {};
-		};
-	};
+    class EODS
+    {
+        class core
+        {
+            file = "\EODS_Zeus\core";
+            class misc {};
+        };
+    };
 };
 
 
