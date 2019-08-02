@@ -1,4 +1,0 @@
-testFunction =
-{
-  systemChat "Hello World!";
-};
